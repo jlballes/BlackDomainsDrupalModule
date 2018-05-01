@@ -1,0 +1,6 @@
+name = "Black list domains"
+description = "Módulo que permite añadir dominios a una black list y que sirve para evitar que enlaces con esos dominios salgan en el portal"
+core = 7.x
+package = Custom
+
+configure = admin/black-list-domains
